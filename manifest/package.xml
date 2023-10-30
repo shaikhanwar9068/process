@@ -28,7 +28,7 @@
         <members>*</members>
         <members>second1234</members>
         <name>LightningComponentBundle</name>
-    </types>
+    </types>hello1234
     <types>
         <members>*</members>
         <name>StaticResource</name>
